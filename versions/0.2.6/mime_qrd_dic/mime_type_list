@@ -1,0 +1,87 @@
+#
+text/plain     .txt ;
+text/css       .css ;
+text/csv       .csv ;
+text/calendar  .ics ;
+text/markdown  .md  ;
+#text/plain-bas .par ;
+#text/x-asm     .s ;
+#text/x-c       .c ;
+
+image/apng     .apng ;
+image/avif     .arc  ;
+image/bmp      .bmp  ; Windows OS/2 Bitmap Graphics
+image/gif      .gif  ;
+image/jpeg     .jpeg .jpg ;
+image/png      .png  ;
+image/svg+xml  .svg  ;
+image/tiff     .tif .tiff ;
+image/webp     .webp ;
+image/vnd.dxf  .dxf ;
+image/avif     .avif;
+image/prs.btif .btif ;
+image/vnd.dvb.subtitle .sub ;
+image/cgm .cgm ;
+image/x-cmx .cmx ;
+image/vnd.dece.graphic .uvi ;
+image/vnd.djvu .djvu ;
+image/vnd.dwg .dwg ;
+image/vnd.fujixerox.edmics-mmr .mmr ;
+image/vnd.fujixerox.edmics-rlc .rlc ;
+image/vnd.xiff .xif ;
+image/vnd.fst .fst ;
+
+audio/mpeg   .mp3  ;
+audio/ogg    .oga  ;
+audio/opus   .opus ;
+audio/wav    .wav  ;
+audio/webm   .weba ;
+audio/3gpp2  .3g2 ;
+audio/adpcm  .adp;
+audio/midi   .mid .midi ;
+audio/x-midi .mid .midi ;
+audio/aac  .aac  ;
+audio/x-aac  .aac  ;
+audio/vnd.dece.audio .uva;
+audio/vnd.digital-winds .eol ;
+audio/vnd.dra .dra ;
+audio/vnd.dts .dts ;
+audio/vnd.dts.hd .dtshd ;
+
+video/mp4        .mp4  ;
+video/mpeg       .mpeg ;
+video/ogg        .ogv  ;
+video/webm       .webm ;
+video/3gpp       .3gp  ;
+video/3gpp2      .3g2  ;
+video/x-msvideo  .avi  ; AVI: Audio Video Interleave
+video/vnd.dece.hd .uvh ;
+video/vnd.dece.mobile .uvm ;
+video/vnd.uvvu.mp4    .uvu ;
+video/vnd.dece.pd     .uvp ;
+video/vnd.dece.sd     .uvs ;
+video/vnd.dece.video  .uvv ;
+video/vnd.fvt         .fvt ;
+
+application/rtf               .rtf    ;
+application/msword            .doc    ;
+application/epub+zip          .epub   ; Electronic publication (EPUB)
+application/json              .json   ;
+application/ld+json           .jsonld ; JSON-LD
+application/ogg               .ogx    ;
+application/pdf               .pdf    ;
+application/vnd.ms-powerpoint .ppt    ;
+application/vnd.visio         .vsd    ;
+application/vnd.ms-excel      .xls    ;
+application/vnd.oasis.opendocument.presentation .odp ;
+application/vnd.oasis.opendocument.spreadsheet  .ods ;
+application/vnd.oasis.opendocument.text         .odt ;
+#application/vnd.openxmlformats-officedocument.wordprocessingml.document   .docx ;
+#application/vnd.openxmlformats-officedocument.presentationml.presentation .pttx ;
+#application/vnd.openxmlformats-officedocument.spreadsheetml.sheet         .xlsx ;
+
+
+
+
+
+
